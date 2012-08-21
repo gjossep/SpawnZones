@@ -1,0 +1,8 @@
+name: SpawnZones
+main: nl.gjosse.SpawnZones
+version: 1.0.0
+commands:
+    spawnzone:
+      description: This is a spawnzone command
+      usage: do /spawnzone help for more info.
+      permission: spawnzone.admin
