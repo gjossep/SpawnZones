@@ -27,6 +27,7 @@ public class SpawnZones extends JavaPlugin {
 		SpawnZone.stop();
 	}
 	//Test Edit
+	//What ?? WHY
 	
 	public boolean onCommand(CommandSender sender, Command cmd, String commandLabel, String[] args)
 	{
