@@ -26,8 +26,7 @@ public class SpawnZones extends JavaPlugin {
 		getLogger().info("SpawnZones Disabled");
 		SpawnZone.stop();
 	}
-	//Test Edit
-	//What ?? WHY
+
 	
 	public boolean onCommand(CommandSender sender, Command cmd, String commandLabel, String[] args)
 	{
